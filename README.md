@@ -1,0 +1,1 @@
+# Code developed for NYU CUSP Capstone project on the prevelance of sidewalk sheds in New York City. 
